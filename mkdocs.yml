@@ -1,0 +1,12 @@
+site_name: happyrepo
+site_description: Django RESTFul api for daily check-ins and monitoring of happiness of multiple teams
+repo_url: https://github.com/bbershadsky/happyrepo
+site_dir: site
+copyright: Copyright &copy; 2021, <a href="https://github.com/bbershadsky">bbershadsky</a>.
+dev_addr: 0.0.0.0:8001
+
+nav:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
